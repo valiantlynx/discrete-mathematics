@@ -1,5 +1,5 @@
 {
-  "name": "ollama-docker",
+  "name": "discrete-mathematics",
   "dockerComposeFile": ["../docker-compose.yml"],
   "service": "app",
   "workspaceFolder": "/code",

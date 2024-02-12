@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "ollama-docker"
+app = "discrete-mathematics"
 primary_region = "arn"
 
 [env]
