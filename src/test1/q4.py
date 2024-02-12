@@ -27,4 +27,4 @@ equivalence_A = equiv_A.simplify()
 tautology_B = exprB.simplify()
 equivalence_C = equiv_C.simplify()
 
-(equivalence_A, tautology_B, equivalence_C)
+print(equivalence_A, tautology_B, equivalence_C)
