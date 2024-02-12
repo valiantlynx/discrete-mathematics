@@ -4,6 +4,8 @@ WORKDIR /code
 
 COPY ./requirements.txt ./
 
+RUN apt-get update && apt-get install git -y
+
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY ./src ./src
