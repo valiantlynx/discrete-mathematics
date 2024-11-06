@@ -1,0 +1,6 @@
+numpy
+automata
+sympy
+frozendict
+regex
+scipy
